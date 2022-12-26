@@ -16,4 +16,5 @@ FUTURE-TOPICS
 #*.tfvars
 
 # Ignore .pem files
-#*.pem
+*.pem
+02-Terraform-Basics/02-02-Terraform-Command-Basics/terraform-manifests/.terraform.lock.hcl
